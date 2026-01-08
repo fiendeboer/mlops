@@ -1,8 +1,0 @@
-__pycache__/
-*.pyc
-experiments/logs/
-experiments/results/
-.env
-.DS_Store
-*.egg-info/
-src/ml_core/data/
